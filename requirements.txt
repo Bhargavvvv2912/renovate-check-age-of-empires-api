@@ -36,6 +36,6 @@ SQLAlchemy==2.0.29
 SQLAlchemy-Utils==0.41.2
 typing_extensions==4.10.0
 tzdata==2024.1
-urllib3==2.2.1
+urllib3==2.8.0
 uWSGI==2.0.24
 Werkzeug==3.0.1
