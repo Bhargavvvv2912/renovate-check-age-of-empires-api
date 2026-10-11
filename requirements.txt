@@ -20,7 +20,7 @@ jsonschema-specifications==2025.9.1
 MarkupSafe==2.1.5
 mistune==3.3.4
 numpy==1.26.4
-packaging==24.2
+packaging==26.3
 pandas==2.2.1
 pluggy==1.4.0
 pytest==8.1.1
