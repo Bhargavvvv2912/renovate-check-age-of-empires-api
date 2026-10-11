@@ -21,7 +21,7 @@ MarkupSafe==3.0.4
 mistune==3.3.4
 numpy==1.26.4
 packaging==26.3
-pandas==2.2.1
+pandas==2.3.3
 pluggy==1.6.0
 pytest==8.4.2
 python-coveralls==2.9.3
