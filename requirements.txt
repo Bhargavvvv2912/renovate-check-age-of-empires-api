@@ -22,7 +22,7 @@ mistune==3.3.4
 numpy==1.26.4
 packaging==24.2
 pandas==2.2.1
-pluggy==1.4.0
+pluggy==1.6.0
 pytest==8.1.1
 python-coveralls==2.9.3
 python-dateutil==2.9.0.post0
