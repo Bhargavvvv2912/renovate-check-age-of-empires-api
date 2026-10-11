@@ -19,7 +19,7 @@ jsonschema==4.21.1
 jsonschema-specifications==2025.9.1
 MarkupSafe==3.0.4
 mistune==3.3.4
-numpy==1.26.4
+numpy==2.5.4
 packaging==26.3
 pandas==2.2.1
 pluggy==1.6.0
